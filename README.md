@@ -4,7 +4,7 @@ This repository is for the paper [Counterfactual Adversarial Learning with Repre
 [[arXiv](https://arxiv.org/abs/2109.04746)] [[Poster](http://www.shininglab.ai/assets/posters/Counterfactual_Adversarial_Learning_with_Representation_Interpolation.pdf)]
 
 ## Note
-The code is in revising and will be published ASAP. (Oct. 2022)
+The code is in revising and will be published ASAP. (Feb. 2023)
 
 ## Authors
 * **Wei Wang** - luyang.ww@alibaba-inc.com.com
